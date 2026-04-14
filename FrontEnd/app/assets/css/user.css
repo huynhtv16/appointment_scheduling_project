@@ -1,0 +1,31 @@
+.user-list .custom-table thead {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.user-list .custom-table th,
+.user-list .custom-table td {
+  padding: 12px;
+  vertical-align: middle;
+}
+
+.status-good {
+  color: green;
+  font-weight: 600;
+}
+
+.status-bad {
+  color: red;
+  font-weight: 600;
+}
+
+.status-warning {
+  color: orange;
+  font-weight: 600;
+}
+.status-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}

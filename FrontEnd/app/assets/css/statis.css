@@ -1,0 +1,18 @@
+/* Statistics Component Styles - Minimal CSS */
+.chart-container {
+  position: relative;
+  height: 400px;
+}
+
+/* Responsive chart height */
+@media (max-width: 768px) {
+  .chart-container {
+    height: 300px;
+  }
+}
+
+@media (max-width: 576px) {
+  .chart-container {
+    height: 250px;
+  }
+}

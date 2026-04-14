@@ -1,0 +1,25 @@
+.stat-card {
+  color: #fff;
+}
+
+.stat-card.purple {
+  background: #6f42c1;
+}
+
+.stat-card.green {
+  background: #25c11d;
+}
+
+.stat-card.orange {
+  background: #fd7e14;
+}
+
+.stat-card .card-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#doctorChart {
+  max-width: 100%;
+  height: 400px !important;
+}
